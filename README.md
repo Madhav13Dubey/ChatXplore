@@ -79,19 +79,41 @@ Track your chat activity patterns through:
 | **re** (Regex) | Parsing chat format from exported .txt file    |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 📁 This project is built using Python and data visualization libraries, focusing on clean design and user-friendly interaction.
+
+---
+
+#### Snapshots
+
+Get a visual tour of the analyzer in action! These snapshots showcase how the project looks, feels, and functions 
+
+## Front End View
+   
+![Screenshot](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/FrontEnd%20View.png?raw=true)
+
+## Top Statistics
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Top%20Statistics.png)
+
+## Monthly Timeline Report
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Monthly%20Timeline%20Report.png)
+
+## Daily Timeline Report
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Daily%20Timeline%20Report.png)
+
+## Activity Map For Both Day & Month
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Activity%20Map%20for%20both%20Day%20and%20Month.png)
+
+## Weekly Activity Map
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Weekly%20Activity%20Map.png)
+
+## Emoji Analysis 
+
+![Screenshots](https://github.com/Madhav13Dubey/ChatXplore/blob/530955bed051bec8d2c85a8753f219b78c367123/images/Emoji%20Analysis.png)
 
 
 
